@@ -1,2 +1,2 @@
 #!/bin/bash
-egree 'root' /etc/passwd
+egreep 'root' /etc/passwd
